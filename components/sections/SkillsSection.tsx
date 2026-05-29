@@ -1,6 +1,6 @@
 import React from "react";
 import { Boxes } from "@/components/ui/boxes";
-import Container from "../global/Container";
+import Container from "@/components/global/Container";
 import Image from "next/image";
 
 interface Skills {
