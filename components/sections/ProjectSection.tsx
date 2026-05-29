@@ -119,7 +119,7 @@ export default function ProjectSection() {
                           </CardHeader>
                           <CardContent className="p-5 pt-0">
                             <Button className="w-full rounded-lg text-lg p-5">
-                              Read More
+                              Github
                             </Button>
                           </CardContent>
                         </Card>
