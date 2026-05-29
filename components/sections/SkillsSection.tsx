@@ -32,7 +32,7 @@ export default function SkillsSection() {
       >
         {/* <section className="relative w-dvw overflow-hidden p-8"> */}
         <div
-          className="pointer-events-none absolute inset-0 sm:hidden "
+          className="pointer-events-none absolute inset-0 "
           aria-hidden="true"
         >
           <Boxes />
